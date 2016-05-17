@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+file_put_contents('/home/user/MyProject/baomi/src/backend/runtime/logs/baomi.log', "===============${this}", FILE_APPEND);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>baomi.log</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

@@ -21,6 +21,12 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "standard": "PSR2"
             }
         },
         "mark_style": "squiggly underline",

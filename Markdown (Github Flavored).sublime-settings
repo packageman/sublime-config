@@ -1,4 +1,10 @@
 {
-    "wrap_width": 119,
-    "line_numbers": true
+	"extensions":
+	[
+		"markdown",
+		"mdown",
+		"md"
+	],
+	"line_numbers": true,
+	"wrap_width": 119
 }

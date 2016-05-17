@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -17,8 +18,11 @@
 		"Emmet",
 		"Emmet Css Snippets",
 		"FileDiffs",
+		"Gist",
 		"Git",
 		"GitGutter",
+		"GitHub Markdown Snippets",
+		"Go To Definition",
 		"Grunt",
 		"INI",
 		"Jade",
@@ -29,13 +33,20 @@
 		"JsonTree",
 		"knockdown",
 		"LESS",
+		"lessc",
 		"Local History",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Meteor Autocomplete (TernJS)",
+		"Monokai Extended",
 		"nginx",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
 		"Python Checker",
 		"Sass",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
@@ -43,8 +54,12 @@
 		"SublimeLinter-phpcs",
 		"SublimeREPL",
 		"Sublimerge Pro",
+		"Table Editor",
 		"TernJS",
+		"Theme - Brogrammer",
+		"Theme - Coffee",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Xdebug Client"
 	]
 }

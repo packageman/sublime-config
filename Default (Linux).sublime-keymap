@@ -1,6 +1,11 @@
 [
-    {
-        "keys": ["super+."], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/coffee_arrow.sublime-macro"}
-    },
-    { "keys": ["super+;"], "command": "move_to", "args": {"to": "eol", "extend": false} }
+  {
+    "keys": ["super+."], "command": "run_macro_file", "args": {"file": "Packages/User/Macros/coffee_arrow.sublime-macro"}
+  },
+  {
+    "keys": ["super+;"], "command": "move_to", "args": {"to": "eol", "extend": false}
+  },
+  {
+    "keys": ["ctrl+t", "ctrl+t"], "command": "goto_definition"
+  }
 ]
